@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{ea3fd587-d407-48d7-9973-eb41626c7f65}">
+		<property name="assetPath">
+			<value>female_voice.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>26.827755102040815</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f1d950c9-34b5-4727-b2af-8d7310521ac9}</destination>
+		</relationship>
+	</object>
+</objects>

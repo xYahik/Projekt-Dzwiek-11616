@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{bd410d05-b6e3-4753-8672-4ce73f866c9b}">
+		<property name="name">
+			<value>Female</value>
+		</property>
+		<relationship name="folder">
+			<destination>{229f4c49-9ed8-4eb6-b314-072bf46fcc4d}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{e4b76b3a-116a-490a-896b-28e936e8bd1e}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{e4b76b3a-116a-490a-896b-28e936e8bd1e}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Hit</value>
+			<value>Death</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
